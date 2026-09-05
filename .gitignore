@@ -1,0 +1,14 @@
+# Local repair history and temporary rendering output
+backups/
+tmp/
+
+# Original source book files are not required by the ADT reader
+book/
+
+# Local development artifacts
+__pycache__/
+*.py[cod]
+*.log
+.DS_Store
+Thumbs.db
+

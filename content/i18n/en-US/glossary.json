@@ -1,0 +1,2318 @@
+{
+  "accelerate": {
+    "word": "accelerate",
+    "definition": "to increase speed and move faster.",
+    "variations": [
+      "accelerate",
+      "accelerates",
+      "accelerated",
+      "accelerating",
+      "acceleration"
+    ],
+    "emoji": "⚡🏃",
+    "id": "gl001"
+  },
+  "acceleration": {
+    "word": "acceleration",
+    "definition": "the act of increasing speed while running",
+    "variations": [
+      "acceleration",
+      "accelerate",
+      "accelerates",
+      "accelerated",
+      "accelerating"
+    ],
+    "emoji": "🏃💨⬆️",
+    "id": "gl002"
+  },
+  "active lifestyle": {
+    "word": "active lifestyle",
+    "definition": "a way of living that includes regular physical activity",
+    "variations": [
+      "active lifestyle",
+      "active lifestyles"
+    ],
+    "emoji": "🏃🌟",
+    "id": "gl003"
+  },
+  "acute injury": {
+    "word": "acute injury",
+    "definition": "an injury that happens suddenly during an activity or event",
+    "variations": [
+      "acute injury",
+      "acute injuries"
+    ],
+    "emoji": "🚑⚡",
+    "id": "gl004"
+  },
+  "administrators": {
+    "word": "administrators",
+    "definition": "people who manage and organize activities or institutions",
+    "variations": [
+      "administrator",
+      "administrators"
+    ],
+    "emoji": "📋🏢",
+    "id": "gl005"
+  },
+  "aerobic": {
+    "word": "aerobic",
+    "definition": "related to exercise that uses oxygen and keeps the heart and lungs working for a period of time",
+    "variations": [
+      "aerobic",
+      "aerobics"
+    ],
+    "emoji": "❤️🏃‍♀️",
+    "id": "gl006"
+  },
+  "aerobic exercise": {
+    "word": "aerobic exercise",
+    "definition": "exercise that uses oxygen and helps the heart and lungs work better",
+    "variations": [
+      "aerobic exercise",
+      "aerobic exercises",
+      "aerobic"
+    ],
+    "emoji": "🫀🏃",
+    "id": "gl007"
+  },
+  "agility": {
+    "word": "agility",
+    "definition": "the ability to move quickly and change direction with control",
+    "variations": [
+      "agility",
+      "agile"
+    ],
+    "emoji": "⚡🏃",
+    "id": "gl008"
+  },
+  "alleviate": {
+    "word": "alleviate",
+    "definition": "to make pain, stress, or a problem less severe",
+    "variations": [
+      "alleviate",
+      "alleviates",
+      "alleviated",
+      "alleviating"
+    ],
+    "emoji": "🌤️",
+    "id": "gl009"
+  },
+  "amusement": {
+    "word": "amusement",
+    "definition": "the feeling of being entertained or finding something fun",
+    "variations": [
+      "amusement"
+    ],
+    "emoji": "😄",
+    "id": "gl010"
+  },
+  "anaerobic exercise": {
+    "word": "anaerobic exercise",
+    "definition": "hard exercise done in short bursts without relying mainly on oxygen",
+    "variations": [
+      "anaerobic exercise",
+      "anaerobic exercises",
+      "anaerobic"
+    ],
+    "emoji": "💥💪",
+    "id": "gl011"
+  },
+  "analysts": {
+    "word": "analysts",
+    "definition": "people who study information carefully to understand it better",
+    "variations": [
+      "analyst",
+      "analysts"
+    ],
+    "emoji": "📊🧠",
+    "id": "gl012"
+  },
+  "anticipate": {
+    "word": "anticipate",
+    "definition": "to expect something and get ready for it before it happens",
+    "variations": [
+      "anticipate",
+      "anticipates",
+      "anticipated",
+      "anticipating"
+    ],
+    "emoji": "👀⚽",
+    "id": "gl013"
+  },
+  "athlete": {
+    "word": "athlete",
+    "definition": "a person who takes part in sports or physical activities",
+    "variations": [
+      "athlete",
+      "athletes",
+      "athletic"
+    ],
+    "emoji": "🏃🏅",
+    "id": "gl014"
+  },
+  "athletics": {
+    "word": "athletics",
+    "definition": "sports events such as running, jumping, and throwing",
+    "variations": [
+      "athletics"
+    ],
+    "emoji": "🏃🥇",
+    "id": "gl015"
+  },
+  "attentiveness": {
+    "word": "attentiveness",
+    "definition": "the quality of paying close attention",
+    "variations": [
+      "attentiveness",
+      "attentive"
+    ],
+    "emoji": "👀🎯",
+    "id": "gl016"
+  },
+  "attire": {
+    "word": "attire",
+    "definition": "clothing worn for a particular purpose or occasion",
+    "variations": [
+      "attire"
+    ],
+    "emoji": "👕",
+    "id": "gl017"
+  },
+  "balance": {
+    "word": "balance",
+    "definition": "the ability to keep the body steady and controlled without falling",
+    "variations": [
+      "balance",
+      "balances",
+      "balanced",
+      "balancing"
+    ],
+    "emoji": "⚖️🧍",
+    "id": "gl018"
+  },
+  "barrier": {
+    "word": "barrier",
+    "definition": "something that blocks the way or must be crossed in a race",
+    "variations": [
+      "barrier",
+      "barriers"
+    ],
+    "emoji": "🚧🏃",
+    "id": "gl019"
+  },
+  "baton": {
+    "word": "baton",
+    "definition": "a short stick passed from one runner to another in a relay race",
+    "variations": [
+      "baton",
+      "batons"
+    ],
+    "emoji": "🏃🎽",
+    "id": "gl020"
+  },
+  "baton exchange": {
+    "word": "baton exchange",
+    "definition": "the act of passing the baton from one runner to another.",
+    "variations": [
+      "baton exchange",
+      "baton exchanges",
+      "exchange"
+    ],
+    "emoji": "🤝🏃",
+    "id": "gl021"
+  },
+  "biochemistry": {
+    "word": "biochemistry",
+    "definition": "the study of chemical processes that happen in living things",
+    "variations": [
+      "biochemistry",
+      "biochemical"
+    ],
+    "emoji": "🧪🧬",
+    "id": "gl022"
+  },
+  "bioelectrical impedance": {
+    "word": "bioelectrical impedance",
+    "definition": "a way of measuring body composition by using a small electrical current",
+    "variations": [
+      "bioelectrical impedance"
+    ],
+    "emoji": "⚡📊",
+    "id": "gl023"
+  },
+  "biomechanics": {
+    "word": "biomechanics",
+    "definition": "the study of how the body moves and how forces act on it during movement",
+    "variations": [
+      "biomechanics",
+      "biomechanical"
+    ],
+    "emoji": "🏃🦴",
+    "id": "gl024"
+  },
+  "blister": {
+    "word": "blister",
+    "definition": "a small bubble of fluid under the skin caused by rubbing or burning",
+    "variations": [
+      "blister",
+      "blisters"
+    ],
+    "emoji": "🦶💧",
+    "id": "gl025"
+  },
+  "BMI": {
+    "word": "BMI",
+    "definition": "a number that compares height and weight to estimate body fat",
+    "variations": [
+      "BMI",
+      "Body Mass Index"
+    ],
+    "emoji": "⚖️📏",
+    "id": "gl026"
+  },
+  "body composition": {
+    "word": "body composition",
+    "definition": "the amount of fat, muscle, and other tissues in the body",
+    "variations": [
+      "body composition"
+    ],
+    "emoji": "🧍📊",
+    "id": "gl027"
+  },
+  "breathing": {
+    "word": "breathing",
+    "definition": "the act of taking air into the body and letting it out",
+    "variations": [
+      "breathe",
+      "breathes",
+      "breathing",
+      "breathed",
+      "breath"
+    ],
+    "emoji": "🫁💨",
+    "id": "gl028"
+  },
+  "bruise": {
+    "word": "bruise",
+    "definition": "an injury where blood collects under the skin, causing a dark mark and pain",
+    "variations": [
+      "bruise",
+      "bruises",
+      "bruised"
+    ],
+    "emoji": "🟣🤕",
+    "id": "gl029"
+  },
+  "change-over zone": {
+    "word": "change-over zone",
+    "definition": "the marked area where runners pass the baton in a relay race.",
+    "variations": [
+      "change-over zone",
+      "change-over zones",
+      "exchange zone",
+      "exchange zones"
+    ],
+    "emoji": "🔄📍",
+    "id": "gl030"
+  },
+  "citizenship": {
+    "word": "citizenship",
+    "definition": "the duties and qualities of being a responsible member of a community or country",
+    "variations": [
+      "citizenship",
+      "citizen",
+      "citizens"
+    ],
+    "emoji": "🏛️🤝",
+    "id": "gl031"
+  },
+  "clearance": {
+    "word": "clearance",
+    "definition": "the action of getting over a hurdle safely and effectively.",
+    "variations": [
+      "clearance",
+      "hurdle clearance",
+      "clearances"
+    ],
+    "emoji": "⬆️🏃",
+    "id": "gl032"
+  },
+  "cognitive": {
+    "word": "cognitive",
+    "definition": "related to thinking, learning, understanding, and remembering",
+    "variations": [
+      "cognitive"
+    ],
+    "emoji": "🧠💭",
+    "id": "gl033"
+  },
+  "collaborating": {
+    "word": "collaborating",
+    "definition": "working together with others",
+    "variations": [
+      "collaborate",
+      "collaborates",
+      "collaborated",
+      "collaborating",
+      "collaboration"
+    ],
+    "emoji": "🤝",
+    "id": "gl034"
+  },
+  "collision": {
+    "word": "collision",
+    "definition": "an accident in which two people or things hit each other",
+    "variations": [
+      "collision",
+      "collisions"
+    ],
+    "emoji": "💥⚠️",
+    "id": "gl035"
+  },
+  "competence": {
+    "word": "competence",
+    "definition": "the ability to do something well",
+    "variations": [
+      "competence",
+      "competences"
+    ],
+    "emoji": "✅💪",
+    "id": "gl036"
+  },
+  "competencies": {
+    "word": "competencies",
+    "definition": "important skills and abilities that help a person do something well",
+    "variations": [
+      "competency",
+      "competencies",
+      "competent"
+    ],
+    "emoji": "📘✅",
+    "id": "gl037"
+  },
+  "competition": {
+    "word": "competition",
+    "definition": "an activity in which people or teams try to win against others",
+    "variations": [
+      "competition",
+      "competitions",
+      "competitive"
+    ],
+    "emoji": "🏆🔥",
+    "id": "gl038"
+  },
+  "compound fracture": {
+    "word": "compound fracture",
+    "definition": "a broken bone that breaks through the skin",
+    "variations": [
+      "compound fracture",
+      "compound fractures"
+    ],
+    "emoji": "🦴🩹",
+    "id": "gl039"
+  },
+  "compression": {
+    "word": "compression",
+    "definition": "the act of pressing or wrapping an injured area to reduce swelling or bleeding",
+    "variations": [
+      "compression",
+      "compress",
+      "compressed"
+    ],
+    "emoji": "🩹ضغط",
+    "id": "gl040"
+  },
+  "concentrate": {
+    "word": "concentrate",
+    "definition": "to direct your attention carefully to one thing",
+    "variations": [
+      "concentrate",
+      "concentrates",
+      "concentrated",
+      "concentrating"
+    ],
+    "emoji": "🧠🎯",
+    "id": "gl041"
+  },
+  "concussion": {
+    "word": "concussion",
+    "definition": "a brain injury caused by a hit or blow to the head or body",
+    "variations": [
+      "concussion",
+      "concussions"
+    ],
+    "emoji": "🧠⚠️",
+    "id": "gl042"
+  },
+  "cool down": {
+    "word": "cool down",
+    "definition": "easy activity done after exercise to help the body return to its normal state",
+    "variations": [
+      "cool down",
+      "cooling down",
+      "cool-down"
+    ],
+    "emoji": "😌🧘",
+    "id": "gl043"
+  },
+  "cool-down": {
+    "word": "cool-down",
+    "definition": "easy exercise done after hard activity to help the body recover",
+    "variations": [
+      "cool-down",
+      "cool downs",
+      "cool down"
+    ],
+    "emoji": "🧘💧",
+    "id": "gl044"
+  },
+  "coordination": {
+    "word": "coordination",
+    "definition": "the ability to move different parts of the body together smoothly and effectively",
+    "variations": [
+      "coordination",
+      "coordinate",
+      "coordinated"
+    ],
+    "emoji": "🕺🤸",
+    "id": "gl045"
+  },
+  "creativity": {
+    "word": "creativity",
+    "definition": "the ability to think of new ideas or make new things",
+    "variations": [
+      "creativity"
+    ],
+    "emoji": "🎨💡",
+    "id": "gl046"
+  },
+  "criteria": {
+    "word": "criteria",
+    "definition": "the standards used to judge or decide something",
+    "variations": [
+      "criteria",
+      "criterion"
+    ],
+    "emoji": "📋✅",
+    "id": "gl047"
+  },
+  "crouch start": {
+    "word": "crouch start",
+    "definition": "a race start where a runner bends low with knees bent to push off quickly",
+    "variations": [
+      "crouch start",
+      "crouch starts"
+    ],
+    "emoji": "🏁🦵",
+    "id": "gl048"
+  },
+  "cultural transmission": {
+    "word": "cultural transmission",
+    "definition": "the passing of culture, beliefs, and practices from one generation to another",
+    "variations": [
+      "cultural transmission"
+    ],
+    "emoji": "🎶👴👦",
+    "id": "gl049"
+  },
+  "defence": {
+    "word": "defence",
+    "definition": "the action of stopping the other team from scoring",
+    "variations": [
+      "defence",
+      "defences",
+      "defensive"
+    ],
+    "emoji": "🛡️🚫",
+    "id": "gl050"
+  },
+  "defender": {
+    "word": "defender",
+    "definition": "a player whose main job is to stop the other team from attacking or scoring",
+    "variations": [
+      "defender",
+      "defenders"
+    ],
+    "emoji": "🛡️⚽",
+    "id": "gl051"
+  },
+  "diligence": {
+    "word": "diligence",
+    "definition": "careful and steady effort in doing something",
+    "variations": [
+      "diligence"
+    ],
+    "emoji": " मेहनत📘",
+    "id": "gl052"
+  },
+  "dimensions": {
+    "word": "dimensions",
+    "definition": "different parts or aspects of something",
+    "variations": [
+      "dimension",
+      "dimensions"
+    ],
+    "emoji": "📐",
+    "id": "gl053"
+  },
+  "dip": {
+    "word": "dip",
+    "definition": "a forward lean of the body at the end of a race to cross the finish line first.",
+    "variations": [
+      "dip",
+      "dips",
+      "dip finish"
+    ],
+    "emoji": "🏁↘️",
+    "id": "gl054"
+  },
+  "discipline": {
+    "word": "discipline",
+    "definition": "a branch of study or area of knowledge",
+    "variations": [
+      "discipline",
+      "disciplines"
+    ],
+    "emoji": "📚",
+    "id": "gl055"
+  },
+  "dislocation": {
+    "word": "dislocation",
+    "definition": "an injury in which a bone is forced out of its normal place in a joint",
+    "variations": [
+      "dislocation",
+      "dislocations",
+      "dislocate",
+      "dislocated"
+    ],
+    "emoji": "🦴😣",
+    "id": "gl056"
+  },
+  "disorders": {
+    "word": "disorders",
+    "definition": "health problems that affect the body or mind",
+    "variations": [
+      "disorder",
+      "disorders"
+    ],
+    "emoji": "🩺",
+    "id": "gl057"
+  },
+  "disqualified": {
+    "word": "disqualified",
+    "definition": "not allowed to continue or be counted in a competition because a rule was broken.",
+    "variations": [
+      "disqualified",
+      "disqualify",
+      "disqualification",
+      "disqualifies"
+    ],
+    "emoji": "🚫🏃",
+    "id": "gl058"
+  },
+  "dominant leg": {
+    "word": "dominant leg",
+    "definition": "the leg that is stronger or more natural for pushing, kicking, or leading movement",
+    "variations": [
+      "dominant leg",
+      "dominant legs"
+    ],
+    "emoji": "🦵💪",
+    "id": "gl059"
+  },
+  "downsweep": {
+    "word": "downsweep",
+    "definition": "a baton passing method in which the baton is pushed downward into the receiver’s hand.",
+    "variations": [
+      "downsweep",
+      "downsweep technique",
+      "downsweeps"
+    ],
+    "emoji": "⬇️🏃",
+    "id": "gl060"
+  },
+  "dribbling": {
+    "word": "dribbling",
+    "definition": "moving with the ball by touching it many times in a controlled way while running",
+    "variations": [
+      "dribble",
+      "dribbles",
+      "dribbled",
+      "dribbling"
+    ],
+    "emoji": "⚽🏃",
+    "id": "gl061"
+  },
+  "dynamic": {
+    "word": "dynamic",
+    "definition": "involving movement or change",
+    "variations": [
+      "dynamic"
+    ],
+    "emoji": "🏃🔄",
+    "id": "gl062"
+  },
+  "economic prospects": {
+    "word": "economic prospects",
+    "definition": "chances for earning money or improving financial life",
+    "variations": [
+      "economic prospect",
+      "economic prospects"
+    ],
+    "emoji": "📈💵",
+    "id": "gl063"
+  },
+  "employment": {
+    "word": "employment",
+    "definition": "paid work or a job",
+    "variations": [
+      "employment"
+    ],
+    "emoji": "💼",
+    "id": "gl064"
+  },
+  "endurance": {
+    "word": "endurance",
+    "definition": "the ability to continue an activity for a long time without getting too tired",
+    "variations": [
+      "endurance",
+      "endure",
+      "enduring"
+    ],
+    "emoji": "🏃💪",
+    "id": "gl065"
+  },
+  "energy": {
+    "word": "energy",
+    "definition": "the power the body uses to move and do work",
+    "variations": [
+      "energy",
+      "energies"
+    ],
+    "emoji": "⚡💪",
+    "id": "gl066"
+  },
+  "energy expenditure": {
+    "word": "energy expenditure",
+    "definition": "the use of energy by the body during movement or activity",
+    "variations": [
+      "energy expenditure",
+      "energy expenditures"
+    ],
+    "emoji": "⚡🔥",
+    "id": "gl067"
+  },
+  "entertainment": {
+    "word": "entertainment",
+    "definition": "something that gives people enjoyment or fun",
+    "variations": [
+      "entertainment"
+    ],
+    "emoji": "🎉🎭",
+    "id": "gl068"
+  },
+  "exchange zone": {
+    "word": "exchange zone",
+    "definition": "the marked area where runners pass the baton in a relay race",
+    "variations": [
+      "exchange zone",
+      "exchange zones"
+    ],
+    "emoji": "🔄🏁",
+    "id": "gl069"
+  },
+  "exercise": {
+    "word": "exercise",
+    "definition": "physical activity done to make the body stronger, healthier, or fitter",
+    "variations": [
+      "exercise",
+      "exercises",
+      "exercising"
+    ],
+    "emoji": "🏋️🤸",
+    "id": "gl070"
+  },
+  "fatigue": {
+    "word": "fatigue",
+    "definition": "great tiredness in the body after hard work or exercise",
+    "variations": [
+      "fatigue",
+      "fatigued"
+    ],
+    "emoji": "😫🏃",
+    "id": "gl071"
+  },
+  "finish line": {
+    "word": "finish line",
+    "definition": "the line that marks the end of a race.",
+    "variations": [
+      "finish line",
+      "finishing line",
+      "finish lines",
+      "finishing lines"
+    ],
+    "emoji": "🏁📍",
+    "id": "gl072"
+  },
+  "finishing phase": {
+    "word": "finishing phase",
+    "definition": "the last part of a race when the runner tries to cross the finish line as fast as possible",
+    "variations": [
+      "finishing phase",
+      "finishing phases"
+    ],
+    "emoji": "🏁🏃",
+    "id": "gl073"
+  },
+  "first aid": {
+    "word": "first aid",
+    "definition": "the first help given to an injured or sick person before full medical treatment",
+    "variations": [
+      "first aid"
+    ],
+    "emoji": "⛑️🩹",
+    "id": "gl074"
+  },
+  "fitness": {
+    "word": "fitness",
+    "definition": "the condition of being healthy and strong in body and mind, especially for doing physical activities well",
+    "variations": [
+      "fitness"
+    ],
+    "emoji": "💪🏃",
+    "id": "gl075"
+  },
+  "flexibility": {
+    "word": "flexibility",
+    "definition": "the ability of joints and muscles to move through a wide range",
+    "variations": [
+      "flexibility",
+      "flexible"
+    ],
+    "emoji": "🤸🦵",
+    "id": "gl076"
+  },
+  "floatation": {
+    "word": "floatation",
+    "definition": "the ability to float on water or another liquid",
+    "variations": [
+      "floatation",
+      "flotation"
+    ],
+    "emoji": "🌊🛟",
+    "id": "gl077"
+  },
+  "focus": {
+    "word": "focus",
+    "definition": "the ability to give full attention to something",
+    "variations": [
+      "focus",
+      "focused",
+      "focusing"
+    ],
+    "emoji": "🎯👀",
+    "id": "gl078"
+  },
+  "football": {
+    "word": "football",
+    "definition": "a team sport in which players use their feet to kick a ball and try to score goals",
+    "variations": [
+      "football",
+      "footballs"
+    ],
+    "emoji": "⚽🥅",
+    "id": "gl079"
+  },
+  "formalised": {
+    "word": "formalised",
+    "definition": "made official or arranged according to clear rules",
+    "variations": [
+      "formalised"
+    ],
+    "emoji": "📜",
+    "id": "gl080"
+  },
+  "foul": {
+    "word": "foul",
+    "definition": "an action that breaks the rules of the game, such as kicking, pushing, or tripping another player unfairly",
+    "variations": [
+      "foul",
+      "fouls",
+      "fouled"
+    ],
+    "emoji": "🚫⚽",
+    "id": "gl081"
+  },
+  "fracture": {
+    "word": "fracture",
+    "definition": "a crack or break in a bone",
+    "variations": [
+      "fracture",
+      "fractures",
+      "fractured"
+    ],
+    "emoji": "🦴🚑",
+    "id": "gl082"
+  },
+  "free-kick": {
+    "word": "free-kick",
+    "definition": "a kick given to a team after the other team breaks a rule",
+    "variations": [
+      "free-kick",
+      "free-kicks"
+    ],
+    "emoji": "⚽🦵",
+    "id": "gl083"
+  },
+  "games": {
+    "word": "games",
+    "definition": "structured activities with rules, goals, and often competition",
+    "variations": [
+      "game",
+      "games"
+    ],
+    "emoji": "🎮🏅",
+    "id": "gl084"
+  },
+  "goal line": {
+    "word": "goal line",
+    "definition": "the line at each end of the field that the ball must fully cross for a goal to count",
+    "variations": [
+      "goal line",
+      "goal lines"
+    ],
+    "emoji": "🥅📏",
+    "id": "gl085"
+  },
+  "goalkeeper": {
+    "word": "goalkeeper",
+    "definition": "the player whose main job is to stop the other team from scoring goals",
+    "variations": [
+      "goalkeeper",
+      "goalkeepers"
+    ],
+    "emoji": "🥅🧤",
+    "id": "gl086"
+  },
+  "grip": {
+    "word": "grip",
+    "definition": "the ability to hold firmly or keep from slipping",
+    "variations": [
+      "grip",
+      "grips",
+      "gripping",
+      "gripped"
+    ],
+    "emoji": "✋👟",
+    "id": "gl087"
+  },
+  "hamstring": {
+    "word": "hamstring",
+    "definition": "one of the muscles at the back of the thigh that helps the leg move",
+    "variations": [
+      "hamstring",
+      "hamstrings"
+    ],
+    "emoji": "🦵🏃",
+    "id": "gl088"
+  },
+  "heading": {
+    "word": "heading",
+    "definition": "a football technique of using the head, especially the forehead, to control, pass, or shoot the ball",
+    "variations": [
+      "head",
+      "heads",
+      "headed",
+      "heading"
+    ],
+    "emoji": "⚽🧠",
+    "id": "gl089"
+  },
+  "hurdle": {
+    "word": "hurdle",
+    "definition": "an obstacle that a runner must jump over in a race",
+    "variations": [
+      "hurdle",
+      "hurdles",
+      "hurdling"
+    ],
+    "emoji": "🏃🪜",
+    "id": "gl090"
+  },
+  "hurdles": {
+    "word": "hurdles",
+    "definition": "a race in which runners jump over barriers while running",
+    "variations": [
+      "hurdle",
+      "hurdles"
+    ],
+    "emoji": "🏃🚧",
+    "id": "gl091"
+  },
+  "hydrate": {
+    "word": "hydrate",
+    "definition": "to give the body enough water",
+    "variations": [
+      "hydrate",
+      "hydrates",
+      "hydrated",
+      "hydration"
+    ],
+    "emoji": "💧🥤",
+    "id": "gl092"
+  },
+  "hydration": {
+    "word": "hydration",
+    "definition": "having enough water in the body to stay healthy and perform well",
+    "variations": [
+      "hydration",
+      "hydrate",
+      "hydrates",
+      "hydrated",
+      "hydrating"
+    ],
+    "emoji": "💧🥤",
+    "id": "gl093"
+  },
+  "identity": {
+    "word": "identity",
+    "definition": "the qualities or beliefs that make a person or group who they are",
+    "variations": [
+      "identity",
+      "identities"
+    ],
+    "emoji": "🪪🌍",
+    "id": "gl094"
+  },
+  "inclusivity": {
+    "word": "inclusivity",
+    "definition": "the practice of including all people and making everyone feel welcome",
+    "variations": [
+      "inclusivity",
+      "inclusive"
+    ],
+    "emoji": "🌍🤗",
+    "id": "gl095"
+  },
+  "income": {
+    "word": "income",
+    "definition": "money that a person earns from work or business",
+    "variations": [
+      "income",
+      "incomes"
+    ],
+    "emoji": "💰",
+    "id": "gl096"
+  },
+  "injury": {
+    "word": "injury",
+    "definition": "physical harm or damage to the body",
+    "variations": [
+      "injury",
+      "injuries"
+    ],
+    "emoji": "🤕🩹",
+    "id": "gl097"
+  },
+  "inside exchange": {
+    "word": "inside exchange",
+    "definition": "a relay baton pass in which the baton is received on the inside pattern described in the event.",
+    "variations": [
+      "inside exchange",
+      "inside exchanges"
+    ],
+    "emoji": "↩️🏃",
+    "id": "gl098"
+  },
+  "instep": {
+    "word": "instep",
+    "definition": "the upper middle part of the foot, often used to kick or control a ball",
+    "variations": [
+      "instep",
+      "insteps"
+    ],
+    "emoji": "🦶⚽",
+    "id": "gl099"
+  },
+  "instep pass": {
+    "word": "instep pass",
+    "definition": "a football pass made with the upper part of the foot, usually to send the ball a long distance",
+    "variations": [
+      "instep pass",
+      "instep passes"
+    ],
+    "emoji": "⚽🥅",
+    "id": "gl100"
+  },
+  "institutionalised": {
+    "word": "institutionalised",
+    "definition": "established as part of a system or organization",
+    "variations": [
+      "institutionalised"
+    ],
+    "emoji": "🏛️",
+    "id": "gl101"
+  },
+  "integral": {
+    "word": "integral",
+    "definition": "very important and necessary as part of something",
+    "variations": [
+      "integral"
+    ],
+    "emoji": "🧩",
+    "id": "gl102"
+  },
+  "intensity": {
+    "word": "intensity",
+    "definition": "the level of effort used during exercise or activity",
+    "variations": [
+      "intensity",
+      "intensities",
+      "intense"
+    ],
+    "emoji": "🔥💪",
+    "id": "gl103"
+  },
+  "interaction": {
+    "word": "interaction",
+    "definition": "action or communication between people or groups",
+    "variations": [
+      "interaction",
+      "interactions"
+    ],
+    "emoji": "🗣️🤝",
+    "id": "gl104"
+  },
+  "intercept": {
+    "word": "intercept",
+    "definition": "to stop or catch the ball before it reaches another player",
+    "variations": [
+      "intercept",
+      "intercepts",
+      "intercepted",
+      "intercepting"
+    ],
+    "emoji": "✋⚽",
+    "id": "gl105"
+  },
+  "joint": {
+    "word": "joint",
+    "definition": "the place where two bones meet and allow movement",
+    "variations": [
+      "joint",
+      "joints"
+    ],
+    "emoji": "🦴⚙️",
+    "id": "gl106"
+  },
+  "kinesiology": {
+    "word": "kinesiology",
+    "definition": "the study of human body movement and exercise",
+    "variations": [
+      "kinesiology",
+      "kinesiological"
+    ],
+    "emoji": "🤸📚",
+    "id": "gl107"
+  },
+  "lane": {
+    "word": "lane",
+    "definition": "a marked path on a track that a runner must stay in during a race",
+    "variations": [
+      "lane",
+      "lanes"
+    ],
+    "emoji": "🛤️🏃",
+    "id": "gl108"
+  },
+  "lap": {
+    "word": "lap",
+    "definition": "one complete round of a track",
+    "variations": [
+      "lap",
+      "laps"
+    ],
+    "emoji": "⭕🏟️",
+    "id": "gl109"
+  },
+  "leadership": {
+    "word": "leadership",
+    "definition": "the ability to guide and influence others",
+    "variations": [
+      "leadership"
+    ],
+    "emoji": "👑🧭",
+    "id": "gl110"
+  },
+  "leading leg": {
+    "word": "leading leg",
+    "definition": "the leg that goes over the hurdle first.",
+    "variations": [
+      "leading leg",
+      "leading legs"
+    ],
+    "emoji": "🦵⬆️",
+    "id": "gl111"
+  },
+  "leisure": {
+    "word": "leisure",
+    "definition": "free time when a person is not working or studying",
+    "variations": [
+      "leisure"
+    ],
+    "emoji": "🕒😌",
+    "id": "gl112"
+  },
+  "lifestyle": {
+    "word": "lifestyle",
+    "definition": "the way a person lives, including habits such as eating, resting, and exercising",
+    "variations": [
+      "lifestyle",
+      "lifestyles"
+    ],
+    "emoji": "🏠🥗",
+    "id": "gl113"
+  },
+  "ligament": {
+    "word": "ligament",
+    "definition": "a strong band of tissue that connects bones at a joint",
+    "variations": [
+      "ligament",
+      "ligaments"
+    ],
+    "emoji": "🦴🔗",
+    "id": "gl114"
+  },
+  "metabolism": {
+    "word": "metabolism",
+    "definition": "the process by which the body changes food into energy and uses it to live and grow",
+    "variations": [
+      "metabolism",
+      "metabolic"
+    ],
+    "emoji": "⚡🍎",
+    "id": "gl115"
+  },
+  "middle distance": {
+    "word": "middle distance",
+    "definition": "a running race longer than a sprint but shorter than a long-distance race.",
+    "variations": [
+      "middle distance",
+      "middle-distance",
+      "middle distance running"
+    ],
+    "emoji": "🏃🛤️",
+    "id": "gl116"
+  },
+  "misconduct": {
+    "word": "misconduct",
+    "definition": "bad or unfair behavior in a game that goes against the rules",
+    "variations": [
+      "misconduct",
+      "misconducts"
+    ],
+    "emoji": "⚠️🚫",
+    "id": "gl117"
+  },
+  "mobility": {
+    "word": "mobility",
+    "definition": "the ability to move the body or a body part easily and freely",
+    "variations": [
+      "mobility"
+    ],
+    "emoji": "🦵🤸‍♂️",
+    "id": "gl118"
+  },
+  "momentum": {
+    "word": "momentum",
+    "definition": "the force of movement that helps a runner keep going fast",
+    "variations": [
+      "momentum"
+    ],
+    "emoji": "💨🏃",
+    "id": "gl119"
+  },
+  "motor": {
+    "word": "motor",
+    "definition": "related to body movement controlled by the muscles and nervous system",
+    "variations": [
+      "motor"
+    ],
+    "emoji": "🧠🦵",
+    "id": "gl120"
+  },
+  "motor skills": {
+    "word": "motor skills",
+    "definition": "skills that help the body move and control actions",
+    "variations": [
+      "motor skill",
+      "motor skills"
+    ],
+    "emoji": "🤸🦵",
+    "id": "gl121"
+  },
+  "muscle": {
+    "word": "muscle",
+    "definition": "a body part that tightens and relaxes to make movement possible",
+    "variations": [
+      "muscle",
+      "muscles"
+    ],
+    "emoji": "💪",
+    "id": "gl122"
+  },
+  "muscular cramps": {
+    "word": "muscular cramps",
+    "definition": "painful tightening of muscles that can happen during or after running.",
+    "variations": [
+      "muscular cramp",
+      "muscular cramps",
+      "cramp",
+      "cramps"
+    ],
+    "emoji": "🦵⚠️",
+    "id": "gl123"
+  },
+  "non-visual": {
+    "word": "non-visual",
+    "definition": "not using sight or not needing to look",
+    "variations": [
+      "non-visual"
+    ],
+    "emoji": "🙈🔄",
+    "id": "gl124"
+  },
+  "objective": {
+    "word": "objective",
+    "definition": "something you are trying to achieve",
+    "variations": [
+      "objective",
+      "objectives"
+    ],
+    "emoji": "🎯",
+    "id": "gl125"
+  },
+  "objectives": {
+    "word": "objectives",
+    "definition": "the goals that someone wants to achieve",
+    "variations": [
+      "objective",
+      "objectives"
+    ],
+    "emoji": "🎯",
+    "id": "gl126"
+  },
+  "obstacle": {
+    "word": "obstacle",
+    "definition": "something in the way that must be avoided or crossed",
+    "variations": [
+      "obstacle",
+      "obstacles"
+    ],
+    "emoji": "🚧⬆️",
+    "id": "gl127"
+  },
+  "offence": {
+    "word": "offence",
+    "definition": "the action of trying to score against the other team",
+    "variations": [
+      "offence",
+      "offences",
+      "offensive"
+    ],
+    "emoji": "⚽➡️",
+    "id": "gl128"
+  },
+  "officiate": {
+    "word": "officiate",
+    "definition": "to control or judge a sports event by making sure rules are followed",
+    "variations": [
+      "officiate",
+      "officiates",
+      "officiated",
+      "officiating",
+      "official"
+    ],
+    "emoji": "🧑‍⚖️🏅",
+    "id": "gl129"
+  },
+  "offside": {
+    "word": "offside",
+    "definition": "a rule in football that stops an attacking player from staying too near the opponent’s goal unfairly when the ball is passed forward",
+    "variations": [
+      "offside"
+    ],
+    "emoji": "🚩⚽",
+    "id": "gl130"
+  },
+  "opponent": {
+    "word": "opponent",
+    "definition": "the person or team you play against in a game or competition",
+    "variations": [
+      "opponent",
+      "opponents"
+    ],
+    "emoji": "🆚🏃‍♂️",
+    "id": "gl131"
+  },
+  "organised": {
+    "word": "organised",
+    "definition": "arranged in an ordered and planned way",
+    "variations": [
+      "organised"
+    ],
+    "emoji": "📋",
+    "id": "gl132"
+  },
+  "orienteering": {
+    "word": "orienteering",
+    "definition": "an outdoor sport in which people use a map and compass to find places",
+    "variations": [
+      "orienteering"
+    ],
+    "emoji": "🧭🗺️",
+    "id": "gl133"
+  },
+  "outside exchange": {
+    "word": "outside exchange",
+    "definition": "a relay baton pass in which the baton is received on the outside pattern described in the event.",
+    "variations": [
+      "outside exchange",
+      "outside exchanges"
+    ],
+    "emoji": "↪️🏃",
+    "id": "gl134"
+  },
+  "overuse injury": {
+    "word": "overuse injury",
+    "definition": "an injury that develops slowly from repeating the same movement too much",
+    "variations": [
+      "overuse injury",
+      "overuse injuries"
+    ],
+    "emoji": "🔁🦵",
+    "id": "gl135"
+  },
+  "oxygen": {
+    "word": "oxygen",
+    "definition": "a gas in the air that the body needs to live and produce energy",
+    "variations": [
+      "oxygen"
+    ],
+    "emoji": "🫁🌬️",
+    "id": "gl136"
+  },
+  "pace": {
+    "word": "pace",
+    "definition": "the speed at which a person runs or moves",
+    "variations": [
+      "pace",
+      "paces",
+      "paced",
+      "pacing"
+    ],
+    "emoji": "⏱️🏃",
+    "id": "gl137"
+  },
+  "participants": {
+    "word": "participants",
+    "definition": "people who take part in an activity",
+    "variations": [
+      "participant",
+      "participants"
+    ],
+    "emoji": "🙋👥",
+    "id": "gl138"
+  },
+  "pass": {
+    "word": "pass",
+    "definition": "to send a ball or object to a teammate",
+    "variations": [
+      "pass",
+      "passes",
+      "passed",
+      "passing"
+    ],
+    "emoji": "⚽🤝",
+    "id": "gl139"
+  },
+  "penalty area": {
+    "word": "penalty area",
+    "definition": "the marked area near the goal where special football rules apply, especially for fouls",
+    "variations": [
+      "penalty area",
+      "penalty areas"
+    ],
+    "emoji": "⚽📍",
+    "id": "gl140"
+  },
+  "penalty-kick": {
+    "word": "penalty-kick",
+    "definition": "a special kick taken at goal after a foul is committed inside the penalty area",
+    "variations": [
+      "penalty-kick",
+      "penalty-kicks"
+    ],
+    "emoji": "🥅⚽",
+    "id": "gl141"
+  },
+  "peripheral vision": {
+    "word": "peripheral vision",
+    "definition": "the ability to see things to the side without turning your head directly toward them",
+    "variations": [
+      "peripheral vision"
+    ],
+    "emoji": "👀➡️",
+    "id": "gl142"
+  },
+  "persistence": {
+    "word": "persistence",
+    "definition": "continuing to try even when something is hard",
+    "variations": [
+      "persistence"
+    ],
+    "emoji": "💪⏳",
+    "id": "gl143"
+  },
+  "physical activity": {
+    "word": "physical activity",
+    "definition": "any body movement that uses energy",
+    "variations": [
+      "physical activity",
+      "physical activities"
+    ],
+    "emoji": "🚶⚡",
+    "id": "gl144"
+  },
+  "physical education": {
+    "word": "physical education",
+    "definition": "a school subject that helps students learn movement, exercise, sports skills, and healthy habits",
+    "variations": [
+      "physical education",
+      "PE"
+    ],
+    "emoji": "🏫⚽",
+    "id": "gl145"
+  },
+  "physical exertion": {
+    "word": "physical exertion",
+    "definition": "hard physical effort by the body",
+    "variations": [
+      "physical exertion"
+    ],
+    "emoji": "💪汗",
+    "id": "gl146"
+  },
+  "physical fitness": {
+    "word": "physical fitness",
+    "definition": "the ability to do physical activities well and without getting too tired",
+    "variations": [
+      "physical fitness",
+      "fitness"
+    ],
+    "emoji": "💪🏃",
+    "id": "gl147"
+  },
+  "pivot foot": {
+    "word": "pivot foot",
+    "definition": "the foot that stays planted beside the ball to support balance while the other foot kicks",
+    "variations": [
+      "pivot foot",
+      "pivot feet"
+    ],
+    "emoji": "🦶⚽",
+    "id": "gl148"
+  },
+  "play": {
+    "word": "play",
+    "definition": "activity done for fun that may involve movement, imagination, or both",
+    "variations": [
+      "play",
+      "plays",
+      "played",
+      "playing"
+    ],
+    "emoji": "🧸🎉",
+    "id": "gl149"
+  },
+  "posture": {
+    "word": "posture",
+    "definition": "the way a person holds or positions their body",
+    "variations": [
+      "posture",
+      "postures"
+    ],
+    "emoji": "🧍✅",
+    "id": "gl150"
+  },
+  "precaution": {
+    "word": "precaution",
+    "definition": "something done in advance to prevent danger or harm",
+    "variations": [
+      "precaution",
+      "precautions",
+      "precautionary"
+    ],
+    "emoji": "⚠️🛡️",
+    "id": "gl151"
+  },
+  "propel": {
+    "word": "propel",
+    "definition": "to push or drive the body forward.",
+    "variations": [
+      "propel",
+      "propels",
+      "propelled",
+      "propelling"
+    ],
+    "emoji": "➡️🏃",
+    "id": "gl152"
+  },
+  "protective": {
+    "word": "protective",
+    "definition": "made to keep someone safe from harm or injury",
+    "variations": [
+      "protective",
+      "protection"
+    ],
+    "emoji": "🛡️✅",
+    "id": "gl153"
+  },
+  "protective equipment": {
+    "word": "protective equipment",
+    "definition": "special gear worn to reduce the chance of injury",
+    "variations": [
+      "protective equipment"
+    ],
+    "emoji": "🪖🛡️",
+    "id": "gl154"
+  },
+  "protective gear": {
+    "word": "protective gear",
+    "definition": "equipment worn to protect the body during sports or activity",
+    "variations": [
+      "protective gear"
+    ],
+    "emoji": "🪖🛡️",
+    "id": "gl155"
+  },
+  "protocol": {
+    "word": "protocol",
+    "definition": "a set of steps or rules for doing something correctly",
+    "variations": [
+      "protocol",
+      "protocols"
+    ],
+    "emoji": "📋✅",
+    "id": "gl156"
+  },
+  "proximal": {
+    "word": "proximal",
+    "definition": "closer to the center of the body or the point where a limb begins",
+    "variations": [
+      "proximal"
+    ],
+    "emoji": "📍🦵",
+    "id": "gl157"
+  },
+  "psychological": {
+    "word": "psychological",
+    "definition": "related to the mind, feelings, and behavior",
+    "variations": [
+      "psychological"
+    ],
+    "emoji": "🧠",
+    "id": "gl158"
+  },
+  "push pass": {
+    "word": "push pass",
+    "definition": "a short pass in football made with the inside of the foot to send the ball directly to another player",
+    "variations": [
+      "push pass",
+      "push passes"
+    ],
+    "emoji": "⚽👟",
+    "id": "gl159"
+  },
+  "push-off": {
+    "word": "push-off",
+    "definition": "the strong movement of the foot against the ground to begin a jump or run.",
+    "variations": [
+      "push-off",
+      "push-offs"
+    ],
+    "emoji": "🦶⚡",
+    "id": "gl160"
+  },
+  "quadriceps": {
+    "word": "quadriceps",
+    "definition": "the large muscles at the front of the thigh that help straighten the knee",
+    "variations": [
+      "quadriceps",
+      "quadricep"
+    ],
+    "emoji": "🦵💪",
+    "id": "gl161"
+  },
+  "reaction time": {
+    "word": "reaction time",
+    "definition": "the time it takes to respond after seeing, hearing, or feeling something",
+    "variations": [
+      "reaction time",
+      "reaction times"
+    ],
+    "emoji": "⏱️⚡",
+    "id": "gl162"
+  },
+  "recovery": {
+    "word": "recovery",
+    "definition": "the process of getting better after an injury, illness, or hard activity",
+    "variations": [
+      "recovery",
+      "recover",
+      "recovered"
+    ],
+    "emoji": "🌿💪",
+    "id": "gl163"
+  },
+  "recreation": {
+    "word": "recreation",
+    "definition": "activity done for enjoyment, fun, or relaxation",
+    "variations": [
+      "recreation",
+      "recreational"
+    ],
+    "emoji": "🎉⚽",
+    "id": "gl164"
+  },
+  "recreational": {
+    "word": "recreational",
+    "definition": "done for enjoyment, relaxation, or fun",
+    "variations": [
+      "recreational"
+    ],
+    "emoji": "🎯😊",
+    "id": "gl165"
+  },
+  "rectangular": {
+    "word": "rectangular",
+    "definition": "having the shape of a rectangle, with four sides and four right angles",
+    "variations": [
+      "rectangular"
+    ],
+    "emoji": "▭📐",
+    "id": "gl166"
+  },
+  "referee": {
+    "word": "referee",
+    "definition": "the official who controls the game and makes sure the rules are followed",
+    "variations": [
+      "referee",
+      "referees"
+    ],
+    "emoji": "🧑‍⚖️🚩",
+    "id": "gl167"
+  },
+  "referees": {
+    "word": "referees",
+    "definition": "officials who make sure the rules are followed in a game or sport",
+    "variations": [
+      "referee",
+      "referees"
+    ],
+    "emoji": "🧑‍⚖️🏟️",
+    "id": "gl168"
+  },
+  "regulations": {
+    "word": "regulations",
+    "definition": "official rules that control how something is done",
+    "variations": [
+      "regulation",
+      "regulations"
+    ],
+    "emoji": "📏",
+    "id": "gl169"
+  },
+  "rehabilitation": {
+    "word": "rehabilitation",
+    "definition": "the process of helping someone return to health or normal life after illness or injury",
+    "variations": [
+      "rehabilitation"
+    ],
+    "emoji": "🩺💚",
+    "id": "gl170"
+  },
+  "relay": {
+    "word": "relay",
+    "definition": "a race in which team members run one after another and pass a baton",
+    "variations": [
+      "relay",
+      "relays"
+    ],
+    "emoji": "🏃 baton🤝",
+    "id": "gl171"
+  },
+  "rhythm": {
+    "word": "rhythm",
+    "definition": "a regular pattern of movement or timing while running.",
+    "variations": [
+      "rhythm",
+      "running rhythm",
+      "three-step rhythm"
+    ],
+    "emoji": "🎵🏃",
+    "id": "gl172"
+  },
+  "RICER": {
+    "word": "RICER",
+    "definition": "a first aid method that means Rest, Ice, Compress, Elevate, and Refer",
+    "variations": [
+      "RICER"
+    ],
+    "emoji": "⛑️🧊🩹",
+    "id": "gl173"
+  },
+  "sedentary lifestyle": {
+    "word": "sedentary lifestyle",
+    "definition": "a way of living with very little physical activity",
+    "variations": [
+      "sedentary lifestyle",
+      "sedentary lifestyles"
+    ],
+    "emoji": "🪑📺",
+    "id": "gl174"
+  },
+  "severity": {
+    "word": "severity",
+    "definition": "the seriousness or strength of something, especially an injury or problem",
+    "variations": [
+      "severity",
+      "severe"
+    ],
+    "emoji": "⚠️📊",
+    "id": "gl175"
+  },
+  "shin guard": {
+    "word": "shin guard",
+    "definition": "a piece of protective equipment worn on the lower leg to prevent injury",
+    "variations": [
+      "shin guard",
+      "shin guards"
+    ],
+    "emoji": "🦵🛡️",
+    "id": "gl176"
+  },
+  "sideline": {
+    "word": "sideline",
+    "definition": "the line along the side of the field that marks the playing area",
+    "variations": [
+      "sideline",
+      "sidelines"
+    ],
+    "emoji": "📏🏟️",
+    "id": "gl177"
+  },
+  "skinfold": {
+    "word": "skinfold",
+    "definition": "a test used to estimate how much body fat a person has",
+    "variations": [
+      "skinfold",
+      "skinfolds"
+    ],
+    "emoji": "📏🧍",
+    "id": "gl178"
+  },
+  "specialised": {
+    "word": "specialised",
+    "definition": "made or trained for a particular purpose or event.",
+    "variations": [
+      "specialised",
+      "specialize",
+      "specialised event",
+      "specialization"
+    ],
+    "emoji": "🎯📘",
+    "id": "gl179"
+  },
+  "spectators": {
+    "word": "spectators",
+    "definition": "people who watch a sport or event",
+    "variations": [
+      "spectator",
+      "spectators"
+    ],
+    "emoji": "👀🏟️",
+    "id": "gl180"
+  },
+  "spikes": {
+    "word": "spikes",
+    "definition": "special sharp parts on sports shoes that help runners grip the track better",
+    "variations": [
+      "spike",
+      "spikes"
+    ],
+    "emoji": "👟📌",
+    "id": "gl181"
+  },
+  "split": {
+    "word": "split",
+    "definition": "the time taken to complete one part of a race, such as one lap",
+    "variations": [
+      "split",
+      "splits"
+    ],
+    "emoji": "⏱️🏃",
+    "id": "gl182"
+  },
+  "spontaneity": {
+    "word": "spontaneity",
+    "definition": "doing something naturally without much planning",
+    "variations": [
+      "spontaneity"
+    ],
+    "emoji": "✨",
+    "id": "gl183"
+  },
+  "sport studies": {
+    "word": "sport studies",
+    "definition": "the school subject that teaches about sports, movement, fitness, safety, and healthy living",
+    "variations": [
+      "sport study",
+      "sport studies"
+    ],
+    "emoji": "🏃📘",
+    "id": "gl184"
+  },
+  "sporting events": {
+    "word": "sporting events",
+    "definition": "organized sports activities or competitions that people watch or join",
+    "variations": [
+      "sporting event",
+      "sporting events"
+    ],
+    "emoji": "🏟️🏅",
+    "id": "gl185"
+  },
+  "sports": {
+    "word": "sports",
+    "definition": "organized physical activities that need skill and effort, often with rules and competition",
+    "variations": [
+      "sport",
+      "sports"
+    ],
+    "emoji": "⚽🏀",
+    "id": "gl186"
+  },
+  "sportsmanship": {
+    "word": "sportsmanship",
+    "definition": "fair, respectful, and generous behavior in sports",
+    "variations": [
+      "sportsmanship"
+    ],
+    "emoji": "🤝🏅",
+    "id": "gl187"
+  },
+  "sprain": {
+    "word": "sprain",
+    "definition": "an injury caused by stretching or tearing a ligament",
+    "variations": [
+      "sprain",
+      "sprains",
+      "sprained"
+    ],
+    "emoji": "🦶🤕",
+    "id": "gl188"
+  },
+  "sprint": {
+    "word": "sprint",
+    "definition": "a short race run at very high speed from start to finish",
+    "variations": [
+      "sprint",
+      "sprints",
+      "sprinted",
+      "sprinting"
+    ],
+    "emoji": "🏃💨⏱️",
+    "id": "gl189"
+  },
+  "stability": {
+    "word": "stability",
+    "definition": "the condition of being steady, balanced, and not likely to move or fall",
+    "variations": [
+      "stability",
+      "stable"
+    ],
+    "emoji": "🧍⚖️",
+    "id": "gl190"
+  },
+  "stance": {
+    "word": "stance",
+    "definition": "the way a person stands or positions the body to be ready for movement",
+    "variations": [
+      "stance",
+      "stances"
+    ],
+    "emoji": "🧍⚖️",
+    "id": "gl191"
+  },
+  "standing start": {
+    "word": "standing start",
+    "definition": "a race start where a runner begins from an upright position",
+    "variations": [
+      "standing start",
+      "standing starts"
+    ],
+    "emoji": "🧍🏁",
+    "id": "gl192"
+  },
+  "starting blocks": {
+    "word": "starting blocks",
+    "definition": "firm supports used by sprinters to push off strongly at the start of a race",
+    "variations": [
+      "starting block",
+      "starting blocks"
+    ],
+    "emoji": "🏃🧱",
+    "id": "gl193"
+  },
+  "starting line": {
+    "word": "starting line",
+    "definition": "the line where runners begin a race",
+    "variations": [
+      "starting line",
+      "starting lines"
+    ],
+    "emoji": "📏🏁",
+    "id": "gl194"
+  },
+  "static": {
+    "word": "static",
+    "definition": "not moving; staying in one position",
+    "variations": [
+      "static"
+    ],
+    "emoji": "🧍⏸️",
+    "id": "gl195"
+  },
+  "stimulus": {
+    "word": "stimulus",
+    "definition": "something that causes a reaction or response",
+    "variations": [
+      "stimulus",
+      "stimuli"
+    ],
+    "emoji": "⚡👀",
+    "id": "gl196"
+  },
+  "stopwatch": {
+    "word": "stopwatch",
+    "definition": "a device used to measure how much time a race takes.",
+    "variations": [
+      "stopwatch",
+      "stopwatches"
+    ],
+    "emoji": "⏱️⌚",
+    "id": "gl197"
+  },
+  "strain": {
+    "word": "strain",
+    "definition": "an injury caused by stretching or tearing a muscle or tendon",
+    "variations": [
+      "strain",
+      "strains",
+      "strained"
+    ],
+    "emoji": "💪😖",
+    "id": "gl198"
+  },
+  "strength": {
+    "word": "strength",
+    "definition": "the ability of muscles to produce force",
+    "variations": [
+      "strength",
+      "strengths"
+    ],
+    "emoji": "💪🏋️",
+    "id": "gl199"
+  },
+  "stretching": {
+    "word": "stretching",
+    "definition": "exercises that make muscles longer and looser so the body can move more easily",
+    "variations": [
+      "stretch",
+      "stretches",
+      "stretched",
+      "stretching"
+    ],
+    "emoji": "🤸🦵",
+    "id": "gl200"
+  },
+  "stride": {
+    "word": "stride",
+    "definition": "one long step made while running",
+    "variations": [
+      "stride",
+      "strides"
+    ],
+    "emoji": "🏃👣",
+    "id": "gl201"
+  },
+  "structured": {
+    "word": "structured",
+    "definition": "organized in a clear and planned way",
+    "variations": [
+      "structured"
+    ],
+    "emoji": "🧩",
+    "id": "gl202"
+  },
+  "synchronise": {
+    "word": "synchronise",
+    "definition": "to make things happen at the same time or in the same pattern",
+    "variations": [
+      "synchronise",
+      "synchronised",
+      "synchronising",
+      "synchronization",
+      "synchronized",
+      "synchronizing"
+    ],
+    "emoji": "⏱️🔄",
+    "id": "gl203"
+  },
+  "tackle": {
+    "word": "tackle",
+    "definition": "to stop an opponent, usually by taking the ball or bringing the player down",
+    "variations": [
+      "tackle",
+      "tackles",
+      "tackled",
+      "tackling"
+    ],
+    "emoji": "🛑⚽",
+    "id": "gl204"
+  },
+  "tackling": {
+    "word": "tackling",
+    "definition": "a technique used to take the ball from an opponent or stop the opponent’s play",
+    "variations": [
+      "tackle",
+      "tackles",
+      "tackled",
+      "tackling"
+    ],
+    "emoji": "⚽🛡️",
+    "id": "gl205"
+  },
+  "take-off": {
+    "word": "take-off",
+    "definition": "the first strong movement a sprinter makes after leaving the blocks",
+    "variations": [
+      "take-off",
+      "take-offs"
+    ],
+    "emoji": "🚀🏃",
+    "id": "gl206"
+  },
+  "team spirit": {
+    "word": "team spirit",
+    "definition": "the feeling of working together well and supporting one another in a team",
+    "variations": [
+      "team spirit"
+    ],
+    "emoji": "🤝💪",
+    "id": "gl207"
+  },
+  "team sports": {
+    "word": "team sports",
+    "definition": "sports in which players work together in groups to reach a common goal",
+    "variations": [
+      "team sport",
+      "team sports"
+    ],
+    "emoji": "🤝⚽",
+    "id": "gl208"
+  },
+  "teamwork": {
+    "word": "teamwork",
+    "definition": "working well with others to achieve a shared goal",
+    "variations": [
+      "teamwork"
+    ],
+    "emoji": "🤝👥",
+    "id": "gl209"
+  },
+  "technique": {
+    "word": "technique",
+    "definition": "a particular way of doing a skill or activity",
+    "variations": [
+      "technique",
+      "techniques"
+    ],
+    "emoji": "🎯🤸",
+    "id": "gl210"
+  },
+  "tendon": {
+    "word": "tendon",
+    "definition": "a strong cord of tissue that connects muscle to bone",
+    "variations": [
+      "tendon",
+      "tendons"
+    ],
+    "emoji": "💪🦴",
+    "id": "gl211"
+  },
+  "thigh": {
+    "word": "thigh",
+    "definition": "the upper part of the leg between the hip and the knee",
+    "variations": [
+      "thigh",
+      "thighs"
+    ],
+    "emoji": "🦵",
+    "id": "gl212"
+  },
+  "tolerance": {
+    "word": "tolerance",
+    "definition": "the ability to be patient and accept difficulties or differences",
+    "variations": [
+      "tolerance"
+    ],
+    "emoji": "🤝🕊️",
+    "id": "gl213"
+  },
+  "track event": {
+    "word": "track event",
+    "definition": "a running competition held on a track",
+    "variations": [
+      "track event",
+      "track events"
+    ],
+    "emoji": "🏟️🏃",
+    "id": "gl214"
+  },
+  "track events": {
+    "word": "track events",
+    "definition": "running competitions that take place on a running track",
+    "variations": [
+      "track event",
+      "track events"
+    ],
+    "emoji": "🏃🏟️",
+    "id": "gl215"
+  },
+  "trailing leg": {
+    "word": "trailing leg",
+    "definition": "the leg that follows after the leading leg when clearing a hurdle.",
+    "variations": [
+      "trailing leg",
+      "trailing legs"
+    ],
+    "emoji": "🦵↪️",
+    "id": "gl216"
+  },
+  "trajectories": {
+    "word": "trajectories",
+    "definition": "the paths that moving objects follow through the air or space",
+    "variations": [
+      "trajectory",
+      "trajectories"
+    ],
+    "emoji": "🏀📈",
+    "id": "gl217"
+  },
+  "trunk": {
+    "word": "trunk",
+    "definition": "the main part of the body, not including the head, arms, or legs",
+    "variations": [
+      "trunk",
+      "trunks"
+    ],
+    "emoji": "🧍몸",
+    "id": "gl218"
+  },
+  "upsweep": {
+    "word": "upsweep",
+    "definition": "a baton passing method in which the baton is pushed upward into the receiver’s hand.",
+    "variations": [
+      "upsweep",
+      "upsweep technique",
+      "upsweeps"
+    ],
+    "emoji": "⬆️🏃",
+    "id": "gl219"
+  },
+  "velocity": {
+    "word": "velocity",
+    "definition": "speed in a particular direction",
+    "variations": [
+      "velocity",
+      "velocities"
+    ],
+    "emoji": "➡️⏱️",
+    "id": "gl220"
+  },
+  "verbal command": {
+    "word": "verbal command",
+    "definition": "a spoken signal or instruction used during a race.",
+    "variations": [
+      "verbal command",
+      "verbal commands",
+      "command",
+      "commands"
+    ],
+    "emoji": "🗣️👂",
+    "id": "gl221"
+  },
+  "victory": {
+    "word": "victory",
+    "definition": "success in winning a race, game, or competition",
+    "variations": [
+      "victory",
+      "victories",
+      "victorious"
+    ],
+    "emoji": "🏆🎉",
+    "id": "gl222"
+  },
+  "visual": {
+    "word": "visual",
+    "definition": "using the eyes or sight",
+    "variations": [
+      "visual",
+      "visually"
+    ],
+    "emoji": "👀🎯",
+    "id": "gl223"
+  },
+  "visual exchange": {
+    "word": "visual exchange",
+    "definition": "a baton pass in which the receiving runner watches the baton while receiving it.",
+    "variations": [
+      "visual exchange",
+      "visual exchanges"
+    ],
+    "emoji": "👀🤝",
+    "id": "gl224"
+  },
+  "warm-up": {
+    "word": "warm-up",
+    "definition": "easy exercises done before sport to prepare the body for harder activity",
+    "variations": [
+      "warm-up",
+      "warm-ups"
+    ],
+    "emoji": "🔥🏃",
+    "id": "gl225"
+  },
+  "well-being": {
+    "word": "well-being",
+    "definition": "the state of being healthy, safe, and feeling good physically and mentally",
+    "variations": [
+      "well-being"
+    ],
+    "emoji": "😊🌿",
+    "id": "gl226"
+  }
+}
