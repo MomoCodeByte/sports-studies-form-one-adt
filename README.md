@@ -4,7 +4,9 @@ This repository contains the text/HTML-based Accessible Digital Textbook (ADT) c
 
 ## Open the book
 
-Use the GitHub Pages link shown in the repository description after deployment.
+Open the published reader:
+
+https://momocodebyte.github.io/sports-studies-form-one-adt/
 
 For local preview, run this command from the repository root:
 
